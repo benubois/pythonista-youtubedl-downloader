@@ -14,7 +14,7 @@ import ui
 import zipfile
 
 youtubedl_dir = 'youtube_dl'
-youtubedl_location = './site-packages/'
+youtubedl_location = './site-packages-3/'
 backup_location = './backup/youtube_dl/'
 youtubedl_downloadurl = 'https://github.com/rg3/youtube-dl/archive/master.zip'
 youtubedl_unarchive_location = './youtube-dl-master/'
